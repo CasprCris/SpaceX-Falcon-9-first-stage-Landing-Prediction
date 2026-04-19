@@ -5,5 +5,5 @@ It is the only private company ever to return a spacecraft from low-earth orbit,
 Therefore if we can determine if the first stage will land, we can determine the cost of a launch.
 This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
-#### Data Collection
+#### Remarks
 The Data collected via webscarping contains Falcon 9 AND Falcon 9 heavy launch data. The "Data Collection" approach collects Falcon 9 only.
