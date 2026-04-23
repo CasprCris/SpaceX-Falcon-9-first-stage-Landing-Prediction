@@ -6,4 +6,5 @@ Therefore if we can determine if the first stage will land, we can determine the
 This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 #### Remarks
-The Data collected via webscarping contains Falcon 9 AND Falcon 9 heavy launch data. The "Data Collection" approach collects Falcon 9 only.
+1. The Data collected via webscarping contains Falcon 9 AND Falcon 9 heavy launch data. The "Data Collection" approach collects Falcon 9 only.
+2. to view Interactive Visualizations copy link to https://nbviewer.org/
